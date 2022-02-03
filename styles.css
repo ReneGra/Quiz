@@ -1,0 +1,164 @@
+.Yuji, .Denji, .Guts, .Tanjiro{
+    display:flex;
+    justify-content:space-between;
+}
+.katana{
+    height:200px;
+    width:340px;
+    padding:10px;
+    margin:5px;
+    border: solid 5px #ffe302;
+    justify-content:center;
+}
+
+.hsword{
+    height:320px;
+    width:200px;
+    padding:10px;
+    margin:5px;
+    border: solid 5px #00ccff;
+    justify-content:center;
+}
+.fists{
+    height:300px;
+    width:300px;
+    padding:10px;
+    margin:5px;
+    border: solid 5px #B11225;
+    justify-content:center;
+}
+
+.chain{
+    height:300px;
+    width:300px;
+    padding:10px;
+    margin:5px;
+    border: solid 5px #66FF01;
+    justify-content:center;
+}
+
+body{
+    background-color:#E18AAA;
+        color:white;
+}
+.fgt{
+	border: solid 3px #78A2CC;
+    height:200px;
+    width:300px;
+}
+.red{
+    padding:1px;
+    margin:1px;
+    height:150px;
+    width:240px;
+    border: solid 3px #78A2CC;
+    justify-content:center;
+
+}
+.blue{
+    padding:1px;
+    margin:1px;
+    height:150px;
+    width:240px;
+    border: solid 3px #78A2CC;
+    justify-content:center;
+}
+.firstp{
+    text-align:center;}
+.green{
+    padding:1px;
+    margin:1px;
+    height:150px;
+    width:240px;
+    border: solid 3px #78A2CC;
+    justify-content:center;
+}
+
+.krice{
+    padding:10px;
+    margin:5px;
+    height:240px;
+    width:240px;
+    border: solid 5px #9f00ff;
+    justify-content:space-between;
+
+}
+
+.sushi{
+    padding:10px;
+    margin:5px;
+    height:240px;
+    width:240px;
+    border: solid 5px #f70d1a;
+    justify-content:center;
+}
+
+.jam{
+    padding:10px;
+    margin:5px;
+    height:240px;
+    width:240px;
+    border: solid 5px #964B00;
+    justify-content:center;
+}
+
+.burger, .burger2{
+padding:10px;
+    margin:5px;
+    height:240px;
+    width:240px;
+    border: solid 5px #0088b0;
+    justify-content:center;
+}
+
+.burger2{
+    height:240px;
+    width:300px;
+}
+    
+.continue{
+    margin-left:610px;
+}
+
+.krice2{
+    text-align:center;
+}
+
+.white{
+    padding:1px;
+    margin:1px;
+    height:150px;
+    width:240px;
+    border: solid 3px #78A2CC;
+    justify-content:center;
+}
+h1{
+	font-size: 45px;  
+    text-align:center;
+}
+h5{
+    font-size:20px;
+    text-align:center;
+}
+.finputb{
+    display:flex;
+    justify-content:center;
+}
+.finput, .poop{
+    height:40px;
+    width:270px;
+    background-color:#FF6961;
+    display:flex;
+    justify-content:center;
+    border: solid #78A2CC 2px;
+}
+
+.finput2, .continue, .restart, .qtwo{
+    background-color:#FF6961;
+	color:white;
+    border: solid #78A2CC 2px;
+    display:flex;
+justify-content:center;}
+::placeholder{
+    color:white;
+}
